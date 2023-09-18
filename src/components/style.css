@@ -1,0 +1,12 @@
+.scrollbar-x::-webkit-scrollbar {
+  height: 12px; /* Height of the scrollbar */
+}
+
+.scrollbar-x::-webkit-scrollbar-thumb {
+  background-color: violet; /* Color of the thumb */
+  border-radius: 12px; /* Adjust the radius for round corners */
+}
+
+.scrollbar-x::-webkit-scrollbar-track {
+  background-color: transparent; /* Set the track color as needed */
+}
